@@ -43,4 +43,4 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 - I have about 5 years experience in Spring MVC
 - I have about 1 years experience in Spring Boot
 - I do not know Spring Boot so much but i can understand it very soon,
-  case i have long String experience and i think Spring boot is just like a tool to help me develop something
+  case i have long Spring experience and i think Spring boot is just like a tool to help me develop something
