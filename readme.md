@@ -16,7 +16,7 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 ### 完成したこと
   - Controllerに対して、Junit機能を用いて、テストを行った
     - 全パターンを網羅してない
-    - Serviceも同じ方法で実現できる（Repositoryをモック）
+    - Serviceも同じ方法で実現できるが、省略した。（Repositoryをモック）
   - Controllerにのメソッドの構造を変えた
     - 戻り値の型を変更
     - 少しの分岐を追加
